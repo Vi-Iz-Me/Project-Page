@@ -46,12 +46,12 @@ price       |    REAL|
 
 -- Results:
 
-name	          |email	                 |item	                  |price  |
+name            |email                   |item                    |price  |
 ----------------+------------------------+------------------------+--------
-Doctor Who	    |doctorwho@timelords.com |Sonic Screwdriver       |1000
-Doctor Who	    |doctorwho@timelords.com |TARDIS                  |1000000
-Harry Potter	  |harry@potter.com        |High Quality Broomstick	|40
-Captain Awesome	|captain@awesome.com     |NULL	                  |NULL
+Doctor Who      |doctorwho@timelords.com |Sonic Screwdriver       |1000
+Doctor Who      |doctorwho@timelords.com |TARDIS                  |1000000
+Harry Potter    |harry@potter.com        |High Quality Broomstick |40
+Captain Awesome	|captain@awesome.com     |NULL                    |NULL
 
 
 -- Create a query that will result in one row per each customer, with their name, email, and total amount of money they've spent on orders
